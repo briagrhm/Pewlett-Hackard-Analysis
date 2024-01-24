@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview Of Analysis
-The purpose of the employee database challenge was to determine the number of employees eligible for retirement and to see which ones were eligible for the mentorship program to train the new employees. 
+The purpose of the employee database was to determine the number of employees eligible for retirement and to see which ones were eligible for the mentorship program to train the new employees. 
 
 ## Results
 The results show the job title with the highest amount of retiring employees is for Senior Engineer's with 25,916 employees. Followed by Senior staff at  24,926 employees retiring. The job title with the lowest retiring employees is the Manager title. Howevever, from the mentorship eligibility list it shows that there are over 1500 people eligible to provide mentorship. This table includes a mix of each title so there will be people to mentor new employees for each job title. 
